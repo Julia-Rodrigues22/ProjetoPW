@@ -1,2 +1,2 @@
 # react-hooks
-Introdução ao UseState, UseEffect e UseContext. Ciclo de vida de componentes. Context API.
+Esse site, juntamente com o aplicativo do "ProjetoPAM", visa notificar os moradores de Sumaré das principais notícias da cidade.
