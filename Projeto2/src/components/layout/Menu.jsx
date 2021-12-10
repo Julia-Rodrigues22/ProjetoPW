@@ -16,7 +16,18 @@ const Menu = props => (
                 <li> 
                     <Link to="/Detalhes">Detalhes</Link>
                 </li>
-                                          
+                <li> 
+                    <Link to="/Campanhas">Campanhas</Link>
+                </li>
+                <li> 
+                    <Link to="/Eventos">Eventos</Link>
+                </li> 
+                <li> 
+                    <Link to="/Noticias">Noticias</Link>
+                </li> 
+                <li> 
+                    <Link to="/Obras">Obras</Link>
+                </li>                     
             </ul>
         </nav>
     </aside>
